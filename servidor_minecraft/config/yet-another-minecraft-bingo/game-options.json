@@ -27,7 +27,7 @@
     "endGameWhen": {
         "type": "first_win"
     },
-    "timeLimit": null,
+    "timeLimit": "PT30M",
     "isElytra": false,
     "isNightVision": false,
     "isUnlockRecipes": true,

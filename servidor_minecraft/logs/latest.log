@@ -470,3 +470,323 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [03:02:35] [Server thread/INFO]: Akamory left the game
 [03:02:35] [Server thread/INFO]: [voicechat] Disconnecting client Akamory
 [03:02:44] [Server thread/INFO]: Cangu_12 was slain by Vessbutblocky
+[03:03:11] [Server thread/INFO]: Vessbutblocky was poked to death by a sweet berry bush
+[03:03:11] [Server thread/INFO]: Re-drawing map_3 for team pink (4.869923ms)
+[03:03:11] [Server thread/INFO]: [StatsLobbyController] Fetching summary for player 2d7926e2-e0fb-3186-a311-c286a6c76e48...
+[03:03:11] [Server thread/INFO]: [StatsLobbyController] Finished fetching player summary!
+[03:03:32] [Server thread/INFO]: Akamory[/127.213.18.1:56873] logged in with entity id 4162 at (2.419945167058394, -18.0, 0.8207094612405212)
+[03:03:32] [Server thread/INFO]: Akamory joined the game
+[03:03:32] [IO-Worker-9/INFO]: [StatsSyncController] Broadcasting stats hash to player 30e4417a-d9c2-3788-961b-f24a534d9889
+[03:03:32] [Server thread/INFO]: [voicechat] Received secret request of Akamory (18)
+[03:03:32] [Server thread/INFO]: [voicechat] Sent secret to Akamory
+[03:03:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30e4417a-d9c2-3788-961b-f24a534d9889
+[03:03:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30e4417a-d9c2-3788-961b-f24a534d9889
+[03:03:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Akamory (30e4417a-d9c2-3788-961b-f24a534d9889) successfully connected to voice chat
+[03:03:42] [Server thread/INFO]: Vessbutblocky tried to swim in lava
+[03:04:00] [Server thread/INFO]: Creating a map for team bingo_blue - mapId=4
+[03:04:00] [Server thread/INFO]: Creating a map for team bingo_gray - mapId=5
+[03:04:00] [Server thread/INFO]: Creating a map for team bingo_red - mapId=6
+[03:04:01] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:04:11] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:04:21] [Server thread/INFO]: AlterJextroll96 was poked to death by a sweet berry bush
+[03:05:03] [Server thread/INFO]: Using random BINGO card seed: -3078504680255747563
+[03:05:03] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:03] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:03] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:03] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:04] [Server thread/INFO]: Re-drawing map_null for team null (244.108640ms)
+[03:05:04] [Server thread/INFO]: Re-drawing map_6 for team red (2.748131ms)
+[03:05:04] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:05:07] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:05:08] [Server thread/INFO]: Using random BINGO card seed: -3078504680255747563
+[03:05:08] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:08] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:08] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:08] [Server thread/INFO]: Re-drawing map_null for team null (92.536425ms)
+[03:05:08] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:05:13] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:05:23] [Server thread/INFO]: Using random BINGO card seed: 7638265312585891477
+[03:05:23] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:23] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:23] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:23] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:05:23] [Server thread/INFO]: Re-drawing map_null for team null (56.131346ms)
+[03:05:24] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:05:24] [Server thread/INFO]: Re-drawing map_5 for team gray (3.232715ms)
+[03:05:25] [Server thread/INFO]: GameState changed: PREGAME -> STARTING
+[03:05:25] [Server thread/INFO]: [SpreadPlayers] Initialized in dimension minecraft:overworld with coordinateScale=1.0, logicalHeight=384, bottomY=-64, seaLevel=63
+[03:05:25] [Server thread/INFO]: Spawning team bingo_red near chunk (-10, 5)
+[03:05:25] [Server thread/INFO]: Spawning team bingo_blue near chunk (10, 6)
+[03:05:25] [Server thread/INFO]: Spawning team bingo_gray near chunk (0, -11)
+[03:05:25] [Server thread/INFO]: Using spawn position [-158, 67, 81] for bingo_red
+[03:05:25] [Server thread/INFO]: Using spawn position [166, 80, 104] for bingo_blue
+[03:05:27] [Server thread/INFO]: Skipping chunk (12, -11) which contains no valid spawn locations
+[03:05:27] [Server thread/INFO]: [Not Secure] <Vessbutblocky> RAINBOW
+[03:05:28] [Server thread/INFO]: Skipping chunk (13, -11) which contains no valid spawn locations
+[03:05:28] [Server thread/INFO]: Using spawn position [236, 68, -164] for bingo_gray
+[03:05:28] [Server thread/INFO]: GameState changed: STARTING -> PRELOADING
+[03:05:28] [Server thread/INFO]: [SpawnPreloadingController] Pre-generating 243 chunks within a view distance of 4...
+[03:05:32] [Server thread/INFO]: [Not Secure] <Vessbutblocky> UNETE AL CANAL
+[03:05:47] [Server thread/INFO]: [SpawnPreloadingController] Finished preloading spawn chunks in 19.169142071s
+[03:05:47] [Server thread/INFO]: GameState changed: PRELOADING -> LOADING
+[03:05:47] [Server thread/INFO]: Waiting until all players have loaded spawn terrain...
+[03:05:47] [Server thread/INFO]: Waiting until all players have loaded spawn terrain... Done! (273.027321ms)
+[03:05:47] [Server thread/INFO]: GameState changed: LOADING -> COUNTDOWN
+[03:05:52] [Server thread/INFO]: Re-drawing map_4 for team blue (1.306880ms)
+[03:05:54] [Server thread/INFO]: Re-drawing map_5 for team gray (5.174380ms)
+[03:05:55] [Server thread/INFO]: GameState changed: COUNTDOWN -> PLAYING
+[03:05:56] [Server thread/INFO]: Re-drawing map_4 for team blue (1.633210ms)
+[03:05:58] [Server thread/INFO]: Re-drawing map_6 for team red (2.810848ms)
+[03:05:59] [Server thread/INFO]: Re-drawing map_4 for team blue (1.392931ms)
+[03:05:59] [Server thread/INFO]: Re-drawing map_5 for team gray (2.665045ms)
+[03:06:00] [Server thread/INFO]: Re-drawing map_4 for team blue (1.379736ms)
+[03:06:02] [Server thread/INFO]: [ScoredItemCheck] Akamory got minecraft:dirt
+[03:06:02] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=1, lines=0, cards=0)
+[03:06:08] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:dirt
+[03:06:08] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=1, lines=0, cards=0)
+[03:06:12] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:dirt
+[03:06:12] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=1, lines=0, cards=0)
+[03:06:17] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:stick
+[03:06:17] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=2, lines=0, cards=0)
+[03:06:23] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:stick
+[03:06:23] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=2, lines=0, cards=0)
+[03:06:37] [Server thread/INFO]: Re-drawing map_4 for team blue (1.366421ms)
+[03:06:42] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:chiseled_bookshelf
+[03:06:42] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=3, lines=0, cards=0)
+[03:06:54] [Server thread/INFO]: [ScoredItemCheck] Akamory got minecraft:oak_sign
+[03:06:54] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=3, lines=0, cards=0)
+[03:07:10] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:oak_sign
+[03:07:10] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=4, lines=0, cards=0)
+[03:07:21] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:bread
+[03:07:21] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=2, lines=0, cards=0)
+[03:07:29] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:coal
+[03:07:29] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=5, lines=0, cards=0)
+[03:07:34] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:stick
+[03:07:34] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=3, lines=0, cards=0)
+[03:07:58] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:cobblestone_slab
+[03:07:58] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=4, lines=0, cards=0)
+[03:08:05] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:cobblestone_slab
+[03:08:05] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=4, lines=0, cards=0)
+[03:08:24] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:cobblestone_slab
+[03:08:24] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=6, lines=0, cards=0)
+[03:08:34] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:sugar
+[03:08:34] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=7, lines=0, cards=0)
+[03:08:51] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:lever
+[03:08:51] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=8, lines=0, cards=0)
+[03:09:01] [Server thread/INFO]: Re-drawing map_4 for team blue (1.377551ms)
+[03:09:01] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:lever
+[03:09:01] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=5, lines=0, cards=0)
+[03:09:03] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:cooked_mutton
+[03:09:03] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=6, lines=0, cards=0)
+[03:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=59, z=-60} class_2338{x=-380, y=58, z=-60}
+[03:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-381, y=59, z=-60} class_2338{x=-380, y=58, z=-60}
+[03:09:06] [Server thread/INFO]: [ScoredItemCheck] Akamory got minecraft:kelp
+[03:09:06] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=5, lines=0, cards=0)
+[03:09:09] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:kelp
+[03:09:09] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=7, lines=0, cards=0)
+[03:09:11] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:sugar
+[03:09:11] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=6, lines=0, cards=0)
+[03:09:48] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:10:01] [Server thread/INFO]: Re-drawing map_4 for team blue (1.274539ms)
+[03:10:14] [Server thread/INFO]: Re-drawing map_4 for team blue (8.266814ms)
+[03:10:23] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:sugar
+[03:10:23] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=8, lines=0, cards=0)
+[03:11:07] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:cooked_beef
+[03:11:07] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=9, lines=0, cards=0)
+[03:11:10] [Server thread/INFO]: [ScoredItemCheck] Akamory got minecraft:coal
+[03:11:10] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=7, lines=0, cards=0)
+[03:11:22] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:cornflower
+[03:11:22] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=10, lines=0, cards=0)
+[03:11:48] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:11:50] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:cooked_salmon
+[03:11:50] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=9, lines=0, cards=0)
+[03:12:13] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:rotten_flesh
+[03:12:13] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=10, lines=0, cards=0)
+[03:12:34] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:oak_sign
+[03:12:34] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=11, lines=0, cards=0)
+[03:12:59] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:cooked_chicken
+[03:12:59] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=8, lines=0, cards=0)
+[03:13:00] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:coarse_dirt
+[03:13:00] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=11, lines=1, cards=0)
+[03:13:29] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:peony
+[03:13:29] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=12, lines=1, cards=0)
+[03:13:37] [Server thread/INFO]: Re-drawing map_6 for team red (2.344878ms)
+[03:13:52] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:cooked_beef
+[03:13:52] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=9, lines=0, cards=0)
+[03:13:54] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:kelp
+[03:13:54] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=13, lines=1, cards=0)
+[03:14:22] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:cornflower
+[03:14:22] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=14, lines=1, cards=0)
+[03:14:32] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:stone
+[03:14:32] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=12, lines=0, cards=0)
+[03:14:47] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:pumpkin
+[03:14:47] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=15, lines=1, cards=0)
+[03:14:48] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:14:48] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:14:59] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:coarse_dirt
+[03:14:59] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=13, lines=0, cards=0)
+[03:15:05] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:chiseled_bookshelf
+[03:15:05] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=10, lines=0, cards=0)
+[03:15:14] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:cooked_salmon
+[03:15:14] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=11, lines=0, cards=0)
+[03:15:34] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:stone
+[03:15:34] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=16, lines=1, cards=0)
+[03:15:42] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:cooked_chicken
+[03:15:42] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=14, lines=0, cards=0)
+[03:15:43] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:833) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:16:27] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:chiseled_bookshelf
+[03:16:27] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=15, lines=0, cards=0)
+[03:17:17] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:cooked_beef
+[03:17:17] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=17, lines=1, cards=0)
+[03:17:25] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:bone
+[03:17:25] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=16, lines=0, cards=0)
+[03:17:35] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:cooked_chicken
+[03:17:35] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=18, lines=2, cards=0)
+[03:17:46] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:stone
+[03:17:46] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=12, lines=0, cards=0)
+[03:18:30] [Server thread/INFO]: Re-drawing map_5 for team gray (2.383821ms)
+[03:18:50] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:bone
+[03:18:50] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=13, lines=0, cards=0)
+[03:18:54] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:cooked_mutton
+[03:18:54] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=19, lines=2, cards=0)
+[03:18:59] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:bone
+[03:18:59] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=20, lines=2, cards=0)
+[03:19:13] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:rotten_flesh
+[03:19:13] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=14, lines=0, cards=0)
+[03:19:36] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:cornflower
+[03:19:36] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=15, lines=1, cards=0)
+[03:21:33] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:lever
+[03:21:33] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=16, lines=1, cards=0)
+[03:21:57] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:rotten_flesh
+[03:21:57] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=17, lines=0, cards=0)
+[03:22:21] [Server thread/INFO]: Re-drawing map_4 for team blue (1.110824ms)
+[03:22:40] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:coal
+[03:22:40] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=18, lines=1, cards=0)
+[03:23:06] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:cooked_salmon
+[03:23:06] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=19, lines=2, cards=0)
