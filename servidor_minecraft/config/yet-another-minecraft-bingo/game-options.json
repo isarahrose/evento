@@ -7,7 +7,7 @@
         {
             "goal": {
                 "type": "lines",
-                "lines": 3
+                "lines": 11
             },
             "itemDistribution": [
                 0,
@@ -16,8 +16,8 @@
                 9,
                 16
             ],
-            "itemFilter": "-unobtainable -tedious",
-            "isLockoutMode": false,
+            "itemFilter": "+items -uncategorized -unobtainable",
+            "isLockoutMode": true,
             "isInventoryMode": false,
             "isHiddenItemsMode": false
         }
@@ -29,7 +29,7 @@
     },
     "timeLimit": "PT30M",
     "isElytra": false,
-    "isNightVision": false,
+    "isNightVision": true,
     "isUnlockRecipes": true,
     "isPvpEnabled": true,
     "isKeepInventory": false,

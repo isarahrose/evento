@@ -790,3 +790,352 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_91
 [03:22:40] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=18, lines=1, cards=0)
 [03:23:06] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:cooked_salmon
 [03:23:06] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=19, lines=2, cards=0)
+[03:24:08] [Server thread/INFO]: Re-drawing map_4 for team blue (1.289387ms)
+[03:26:08] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:bread
+[03:26:08] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_blue: TeamScore(items=21, lines=3, cards=0)
+[03:26:20] [Server thread/WARN]: Akamory moved too quickly! -9.951548200998872,-2.093459060932247,-0.35926287211910335
+[03:27:25] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:pumpkin
+[03:27:25] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=17, lines=1, cards=0)
+[03:27:57] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:28:12] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:peony
+[03:28:12] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=20, lines=2, cards=0)
+[03:33:17] [Server thread/INFO]: Re-drawing map_4 for team blue (2.754353ms)
+[03:33:48] [Server thread/INFO]: [ScoredItemCheck] Akamory got minecraft:peony
+[03:33:48] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=18, lines=1, cards=0)
+[03:34:58] [Server thread/WARN]: Vessbutblocky moved too quickly! 6.399691416351317,-0.2468000194787976,-8.080049000125427
+[03:35:55] [Server thread/INFO]: Writing game result to stats.db...
+[03:35:55] [Server thread/INFO]: Writing game result to stats.db... - done in 40.288703ms!
+[03:35:55] [Server thread/INFO]: GameState changed: PLAYING -> POSTGAME
+[03:35:55] [Server thread/INFO]: ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+[03:35:55] [Server thread/INFO]:   [Blue Team] had the most lines!
+[03:35:55] [Server thread/INFO]:   Game duration: 30m 00s
+[03:35:55] [Server thread/INFO]:   Seed: [-8264922388571122785]
+[03:35:55] [Server thread/INFO]: ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+[03:35:55] [Server thread/INFO]: Re-drawing map_4 for team blue (3.126207ms)
+[03:36:01] [Server thread/INFO]: [ReadyController] Starting the POSTGAME timer for 600 seconds
+[03:36:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 380cd4c7-2786-3f93-a744-ffe7b48befe9 timed out
+[03:36:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Vessbutblocky
+[03:36:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Vessbutblocky
+[03:36:44] [Server thread/INFO]: Vessbutblocky lost connection: Timed out
+[03:36:44] [Server thread/INFO]: Vessbutblocky left the game
+[03:36:44] [Server thread/INFO]: [voicechat] Disconnecting client Vessbutblocky
+[03:36:46] [Server thread/INFO]: Re-drawing map_5 for team gray (2.271451ms)
+[03:36:56] [Server thread/INFO]: [Not Secure] <AlterJextroll96> ustedes pueden nadar?
+[03:37:03] [Server thread/INFO]: Re-drawing map_4 for team blue (3.113533ms)
+[03:37:36] [Server thread/INFO]: [Not Secure] <AlterJextroll96> avisen
+[03:38:01] [Server thread/INFO]: [ReadyController] Reached the end of the POSTGAME timer - running reset.
+[03:38:01] [Server thread/INFO]: Resetting worlds...
+[03:38:01] [Server thread/INFO]: [Reset] Clearing game data
+[03:38:01] [Server thread/INFO]: [CardService] Generating initial cards from config.json
+[03:38:01] [Server thread/INFO]: Using random BINGO card seed: -8857444263739417366
+[03:38:01] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:01] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:01] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:01] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:01] [Server thread/INFO]: [Reset] Recreating worlds
+[03:38:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:38:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/bingo:lobby
+[03:38:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:38:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:38:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:38:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[03:38:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:38:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:38:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:38:02] [Server thread/INFO]: [MenuController] Preparing the BINGO lobby...
+[03:38:02] [Server thread/INFO]: [MenuController] Preparing the BINGO lobby... - done in 123.835680ms!
+[03:38:02] [Server thread/WARN]: Requested creation of existing team 'bingo_blue'
+[03:38:02] [Server thread/WARN]: Requested creation of existing team 'bingo_red'
+[03:38:02] [Server thread/WARN]: Requested creation of existing team 'bingo_pink'
+[03:38:02] [Server thread/WARN]: Requested creation of existing team 'bingo_gray'
+[03:38:02] [Server thread/INFO]: [Reset] Teleporting players back to lobby
+[03:38:02] [Server thread/INFO]: GameState changed: POSTGAME -> PREGAME
+[03:38:02] [Server thread/INFO]: [MenuController] Locating spawn position...
+[03:38:04] [Server thread/ERROR]: Tried to load invalid item: 'Not a boolean: 0 missed input: {"minecraft:custom_name":'{"text":"Splash Potion of Levitation","italic":0}'}'
+[03:38:04] [Server thread/ERROR]: Tried to load invalid item: 'Not a boolean: 0 missed input: {"minecraft:custom_name":'{"text":"Splash Potion of Levitation","italic":0}'}'
+[03:38:05] [Server thread/INFO]: [MenuController] Locating spawn position... - done in 2.774823059s!
+[03:38:05] [Server thread/INFO]: Set lobby spawnpoint to ([0, -18, 1], -180.0)
+[03:38:05] [Server thread/INFO]: [MenuController] Locating menu position...
+[03:38:05] [Server thread/INFO]: [MenuController] Locating menu position... - done in 91.517149ms!
+[03:38:05] [Server thread/INFO]: Set menu position to ( 0.000E+0 -1.800E+1 -5.000E+0  1.000E+0)
+[03:38:05] [Server thread/INFO]: [MenuController] Spawning lobby menu at  1.000E+0  0.000E+0  0.000E+0  0.000E+0
+ 0.000E+0  1.000E+0  0.000E+0 -1.800E+1
+-0.000E+0  0.000E+0  1.000E+0 -5.000E+0
+ 0.000E+0  0.000E+0  0.000E+0  1.000E+0
+
+[03:38:05] [Server thread/INFO]: [MenuController] Locating team entities...
+[03:38:05] [Server thread/INFO]: [MenuController] Locating team entities... - done in 84.977544ms!
+[03:38:05] [Server thread/INFO]: Using random BINGO card seed: -8857444263739417366
+[03:38:05] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:05] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:05] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:05] [Server thread/INFO]: Resetting worlds... - done in 4.223850859s!
+[03:38:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[03:38:05] [Server thread/INFO]: Re-drawing map_null for team null (124.937330ms)
+[03:38:20] [ForkJoinPool.commonPool-worker-10/WARN]: Failed to fetch skin: not found
+[03:38:23] [Server thread/INFO]: Vessbutblocky[/127.16.1.172:50833] logged in with entity id 45930 at (117.34311944776712, 62.0, -1743.2684213675211)
+[03:38:23] [Server thread/INFO]: Vessbutblocky joined the game
+[03:38:23] [IO-Worker-80/INFO]: [StatsSyncController] Broadcasting stats hash to player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[03:38:23] [Server thread/INFO]: [voicechat] Received secret request of Vessbutblocky (18)
+[03:38:23] [Server thread/INFO]: [voicechat] Sent secret to Vessbutblocky
+[03:38:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[03:38:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[03:38:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vessbutblocky (380cd4c7-2786-3f93-a744-ffe7b48befe9) successfully connected to voice chat
+[03:38:32] [Server thread/INFO]: Using random BINGO card seed: 376488904543581250
+[03:38:33] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:33] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:33] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:33] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:33] [Server thread/INFO]: Re-drawing map_null for team null (43.479747ms)
+[03:38:33] [Server thread/INFO]: Using random BINGO card seed: -4623499305243776505
+[03:38:33] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:33] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:33] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:38:33] [Server thread/INFO]: Re-drawing map_null for team null (49.919208ms)
+[03:38:34] [Server thread/INFO]: Creating a map for team bingo_green - mapId=7
+[03:38:34] [Server thread/INFO]: Creating a map for team bingo_gray - mapId=8
+[03:38:34] [Server thread/INFO]: Creating a map for team bingo_red - mapId=9
+[03:38:34] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:38:57] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:38:58] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:38:58] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:38:59] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:01] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:01] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:02] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:02] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:05] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[03:39:50] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:54] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:54] [Server thread/INFO]: Using random BINGO card seed: -4623499305243776505
+[03:39:54] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:39:55] [Server thread/INFO]: Re-drawing map_null for team null (71.485803ms)
+[03:39:55] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:39:57] [Server thread/INFO]: Using random BINGO card seed: -4623499305243776505
+[03:39:57] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:39:57] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:39:57] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[03:39:57] [Server thread/INFO]: Re-drawing map_null for team null (14.749648ms)
+[03:39:57] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:40:08] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:40:14] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:40:21] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:40:27] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:41:24] [Server thread/INFO]: [StatsLobbyController] Fetching summary for player 5c072680-c607-3416-89f2-4adf69625283...
+[03:41:24] [Server thread/INFO]: [StatsLobbyController] Finished fetching player summary!
+[03:41:47] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:41:49] [Server thread/INFO]: [ReadyController] Starting the PREGAME timer for 600 seconds
+[03:41:53] [Server thread/INFO]: GameState changed: PREGAME -> STARTING
+[03:41:53] [Server thread/INFO]: [SpreadPlayers] Initialized in dimension minecraft:overworld with coordinateScale=1.0, logicalHeight=384, bottomY=-64, seaLevel=63
+[03:41:53] [Server thread/INFO]: Spawning team bingo_red near chunk (-11, 2)
+[03:41:53] [Server thread/INFO]: Spawning team bingo_green near chunk (8, 8)
+[03:41:53] [Server thread/INFO]: Spawning team bingo_gray near chunk (3, -11)
+[03:41:56] [Server thread/INFO]: Skipping chunk (-11, 2) which contains no valid spawn locations
+[03:41:56] [Server thread/INFO]: Using spawn position [57, 99, -172] for bingo_gray
+[03:41:56] [Server thread/INFO]: Using spawn position [142, 102, 142] for bingo_green
+[03:41:57] [Server thread/INFO]: Skipping chunk (-12, 2) which contains no valid spawn locations
+[03:41:58] [Server thread/INFO]: Skipping chunk (-13, 2) which contains no valid spawn locations
+[03:41:58] [Server thread/INFO]: Skipping chunk (-14, 2) which contains no valid spawn locations
+[03:41:58] [Server thread/INFO]: Using spawn position [-239, 66, 42] for bingo_red
+[03:41:58] [Server thread/INFO]: GameState changed: STARTING -> PRELOADING
+[03:41:58] [Server thread/INFO]: [SpawnPreloadingController] Pre-generating 243 chunks within a view distance of 4...
+[03:42:11] [Server thread/INFO]: Re-drawing map_8 for team gray (3.173976ms)
+[03:42:16] [Server thread/INFO]: [SpawnPreloadingController] Finished preloading spawn chunks in 17.550800799s
+[03:42:16] [Server thread/INFO]: GameState changed: PRELOADING -> LOADING
+[03:42:16] [Server thread/INFO]: Waiting until all players have loaded spawn terrain...
+[03:42:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3130ms or 62 ticks behind
+[03:42:19] [Server thread/INFO]: Waiting until all players have loaded spawn terrain... Done! (3.124430411s)
+[03:42:19] [Server thread/INFO]: GameState changed: LOADING -> COUNTDOWN
+[03:42:27] [Server thread/INFO]: GameState changed: COUNTDOWN -> PLAYING
+[03:42:31] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:wheat_seeds
+[03:42:31] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=1, lines=0, cards=0)
+[03:42:31] [Server thread/INFO]: Re-drawing map_9 for team red (5.314122ms)
+[03:42:34] [Server thread/INFO]: Re-drawing map_8 for team gray (3.656466ms)
+[03:42:44] [Server thread/INFO]: Re-drawing map_7 for team green (2.839461ms)
+[03:43:00] [Server thread/INFO]: Re-drawing map_7 for team green (1.259051ms)
+[03:43:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-219, y=69, z=-21} class_2338{x=-218, y=67, z=-22}
+[03:43:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-219, y=69, z=-21} class_2338{x=-218, y=67, z=-22}
+[03:43:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-219, y=69, z=-21} class_2338{x=-218, y=67, z=-22}
+[03:43:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-219, y=69, z=-21} class_2338{x=-218, y=67, z=-22}
+[03:43:12] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:coarse_dirt
+[03:43:12] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=2, lines=0, cards=0)
+[03:43:13] [Server thread/INFO]: Re-drawing map_7 for team green (1.171868ms)
+[03:43:15] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:cobblestone_slab
+[03:43:15] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=1, lines=0, cards=0)
+[03:43:27] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:stone_axe
+[03:43:27] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=3, lines=0, cards=0)
+[03:43:27] [Server thread/INFO]: Re-drawing map_7 for team green (2.707164ms)
+[03:43:39] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:gravel
+[03:43:39] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=2, lines=0, cards=0)
+[03:43:40] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:lever
+[03:43:40] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=4, lines=0, cards=0)
+[03:43:41] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:dandelion
+[03:43:41] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=1, lines=0, cards=0)
+[03:43:41] [Server thread/WARN]: Vessbutblocky moved too quickly! -9.461985227689098,-0.6709083839322858,-3.5187112380324095
+[03:43:54] [Server thread/INFO]: RainbowCat_uwu lost connection: Timed out
+[03:43:54] [Server thread/INFO]: RainbowCat_uwu left the game
+[03:43:54] [Server thread/INFO]: [voicechat] Disconnecting client RainbowCat_uwu
+[03:44:04] [Server thread/INFO]: RainbowCat_uwu[/127.27.0.52:51149] logged in with entity id 48599 at (61.61048217936697, 79.0, -197.40704895758154)
+[03:44:04] [Server thread/INFO]: RainbowCat_uwu joined the game
+[03:44:04] [IO-Worker-92/INFO]: [StatsSyncController] Broadcasting stats hash to player 5c072680-c607-3416-89f2-4adf69625283
+[03:44:04] [Server thread/INFO]: [voicechat] Received secret request of RainbowCat_uwu (18)
+[03:44:04] [Server thread/INFO]: [voicechat] Sent secret to RainbowCat_uwu
+[03:44:05] [IO-Worker-96/INFO]: [StatsSyncController] Client responded with a hash mismatch - starting sync for player 5c072680-c607-3416-89f2-4adf69625283
+[03:44:05] [IO-Worker-96/INFO]: [StatsSyncController] Broadcasting 1 known gameIds to the client
+[03:44:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5c072680-c607-3416-89f2-4adf69625283
+[03:44:08] [IO-Worker-96/INFO]: [StatsSyncController] Sending requested gameId=03c998d4-f1e6-4da1-a258-c872b4e44a56
+[03:44:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5c072680-c607-3416-89f2-4adf69625283
+[03:44:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RainbowCat_uwu (5c072680-c607-3416-89f2-4adf69625283) successfully connected to voice chat
+[03:44:41] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:ink_sac
+[03:44:41] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=5, lines=0, cards=0)
+[03:44:45] [Server thread/WARN]: Vessbutblocky moved too quickly! -9.559345287131723,-2.024424088213692,2.989761450686572
+[03:44:48] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:coal
+[03:44:48] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=2, lines=0, cards=0)
+[03:45:15] [Server thread/INFO]: [ScoredItemCheck] Akamory got minecraft:cooked_mutton
+[03:45:15] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=3, lines=0, cards=0)
+[03:45:41] [Server thread/INFO]: Re-drawing map_7 for team green (1.237392ms)
+[03:45:55] [Server thread/INFO]: Re-drawing map_8 for team gray (2.360097ms)
+[03:46:34] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:glass_bottle
+[03:46:34] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=6, lines=0, cards=0)
+[03:46:55] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:glass_pane
+[03:46:55] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=7, lines=0, cards=0)
+[03:47:00] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:apple
+[03:47:00] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=3, lines=0, cards=0)
+[03:47:08] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:porkchop
+[03:47:08] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=4, lines=0, cards=0)
+[03:47:19] [Server thread/INFO]: Re-drawing map_8 for team gray (2.392497ms)
+[03:47:30] [Server thread/INFO]: Re-drawing map_8 for team gray (2.260781ms)
+[03:47:44] [Server thread/INFO]: Re-drawing map_8 for team gray (4.089295ms)
+[03:47:48] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:fletching_table
+[03:47:48] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=8, lines=0, cards=0)
+[03:47:54] [Server thread/INFO]: [ScoredItemCheck] Vessbutblocky got minecraft:rotten_flesh
+[03:47:54] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=9, lines=0, cards=0)
+[03:48:04] [Server thread/INFO]: Re-drawing map_7 for team green (1.197746ms)
+[03:48:14] [Server thread/INFO]: [ScoredItemCheck] Cangu_12 got minecraft:cod
+[03:48:14] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_red: TeamScore(items=4, lines=0, cards=0)
+[03:51:41] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:bookshelf
+[03:51:41] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=5, lines=0, cards=0)
+[03:51:51] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:salmon_bucket
+[03:51:51] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=10, lines=0, cards=0)
+[03:52:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-421, y=64, z=242} class_2338{x=-421, y=63, z=241}
+[03:53:58] [Server thread/WARN]: Akamory moved too quickly! 0.4550171013971749,0.0625,10.178523275776456
+[03:55:05] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:bow
+[03:55:05] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=11, lines=1, cards=0)
+[03:55:55] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:loom
+[03:55:55] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=6, lines=0, cards=0)
+[03:56:03] [Server thread/INFO]: [ScoredItemCheck] isarahrose got minecraft:wheat
+[03:56:03] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_green: TeamScore(items=12, lines=1, cards=0)
+[03:56:05] [Server thread/WARN]: Akamory moved too quickly! -1.5212425035893204,0.7967356006687041,-10.110258077938227
+[03:56:10] [Server thread/INFO]: Villager class_1646['Weaponsmith'/49459, l='ServerLevel[world]', x=-239.83, y=63.94, z=-232.53] died, message: 'Weaponsmith was slain by Zombie'
+[03:56:23] [Server thread/INFO]: Re-drawing map_7 for team green (4.042477ms)
+[03:56:25] [Server thread/INFO]: Re-drawing map_7 for team green (3.870376ms)
+[03:56:51] [Server thread/WARN]: Akamory moved too quickly! -9.99039147556698,-1.1767592750642422,-0.3284633026203778
+[03:57:01] [Server thread/WARN]: Akamory moved too quickly! -8.282976172888993,1.0,5.629611408991366
+[03:57:05] [Server thread/INFO]: Re-drawing map_8 for team gray (2.275889ms)
+[03:57:39] [Server thread/INFO]: Re-drawing map_7 for team green (1.313622ms)
+[03:57:51] [Server thread/INFO]: Re-drawing map_7 for team green (1.127224ms)
+[04:01:02] [Server thread/INFO]: Villager class_1646['Villager'/49464, l='ServerLevel[world]', x=-206.24, y=66.00, z=-226.77] died, message: 'Villager was slain by Zombie'
+[04:03:16] [Server thread/WARN]: Akamory moved too quickly! -4.672406650529922,0.0,8.985546879341456
+[04:03:47] [Server thread/WARN]: Cangu_12 moved too quickly! 8.025000674364975,0.5061351021062137,-6.3774108581567965
+[04:03:47] [Server thread/WARN]: isarahrose moved too quickly! 8.869020105251025,3.5813359922251635,-3.814960207191973
+[04:03:47] [Server thread/WARN]: Akamory moved too quickly! -5.736508333784855,-0.207099709373324,8.371899898029994
+[04:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[04:03:47] [Server thread/INFO]: Game was inactive for 3.284516417s - updating timer
+[04:03:54] [Server thread/INFO]: [ScoredItemCheck] RainbowCat_uwu got minecraft:netherrack
+[04:03:54] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=7, lines=0, cards=0)
+[04:06:22] [Server thread/WARN]: Vessbutblocky moved too quickly! -8.247083051937693,0.0,-5.8647803801063105
+[04:06:55] [Server thread/INFO]: Re-drawing map_7 for team green (1.631747ms)
+[04:07:35] [Server thread/INFO]: Re-drawing map_7 for team green (1.231399ms)
+[04:08:08] [Server thread/INFO]: Re-drawing map_7 for team green (1.054989ms)
+[04:11:24] [Server thread/INFO]: [ScoredItemCheck] AlterJextroll96 got minecraft:light_blue_carpet
+[04:11:24] [Server thread/INFO]: [ScoredItemCheck] Updated score for team bingo_gray: TeamScore(items=8, lines=0, cards=0)
+[04:11:39] [Server thread/INFO]: Villager class_1646['Villager'/90037, l='ServerLevel[world]', x=-202.85, y=71.00, z=-229.22] died, message: 'Villager suffocated in a wall'
+[04:11:54] [Server thread/INFO]: Writing game result to stats.db...
+[04:11:54] [Server thread/INFO]: Writing game result to stats.db... - done in 35.270314ms!
+[04:11:54] [Server thread/INFO]: GameState changed: PLAYING -> POSTGAME
+[04:11:54] [Server thread/INFO]: ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+[04:11:54] [Server thread/INFO]:   [Green Team] had the most lines!
+[04:11:54] [Server thread/INFO]:   Game duration: 29m 23s
+[04:11:54] [Server thread/INFO]:   Seed: [5329717138624117734]
+[04:11:54] [Server thread/INFO]: ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+[04:11:54] [Server thread/INFO]: Re-drawing map_9 for team red (2.644267ms)
+[04:12:01] [Server thread/INFO]: [ReadyController] Starting the POSTGAME timer for 600 seconds
+[04:13:42] [Server thread/INFO]: [ReadyController] Reached the end of the POSTGAME timer - running reset.
+[04:13:42] [Server thread/INFO]: Resetting worlds...
+[04:13:42] [Server thread/INFO]: [Reset] Clearing game data
+[04:13:42] [Server thread/INFO]: [CardService] Generating initial cards from config.json
+[04:13:42] [Server thread/INFO]: Using random BINGO card seed: 1272118485043387782
+[04:13:42] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[04:13:42] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[04:13:42] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[04:13:42] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[04:13:42] [Server thread/INFO]: [Reset] Recreating worlds
+[04:13:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/bingo:lobby
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:13:43] [Server thread/INFO]: [MenuController] Preparing the BINGO lobby...
+[04:13:43] [Server thread/INFO]: [MenuController] Preparing the BINGO lobby... - done in 138.308148ms!
+[04:13:43] [Server thread/WARN]: Requested creation of existing team 'bingo_red'
+[04:13:43] [Server thread/WARN]: Requested creation of existing team 'bingo_gray'
+[04:13:43] [Server thread/WARN]: Requested creation of existing team 'bingo_green'
+[04:13:43] [Server thread/INFO]: [Reset] Teleporting players back to lobby
+[04:13:43] [Server thread/INFO]: GameState changed: POSTGAME -> PREGAME
+[04:13:43] [Server thread/INFO]: [MenuController] Locating spawn position...
