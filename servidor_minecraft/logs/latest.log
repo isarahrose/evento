@@ -1,0 +1,472 @@
+[02:53:03] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[02:53:07] [main/INFO]: Loading 95 mods:
+	- architectury 14.0.4
+	- cloth-config 16.0.141
+	   \-- cloth-basic-math 0.6.1
+	- coords-hud 1.2.4+mc1.21.2
+	   |-- com_h2database_h2 2.1.214
+	   |-- coords-hud-common 1.2.4+common
+	   |-- fabric-language-kotlin 1.12.0+kotlin.2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-reflect 2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.10
+	   |    |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |    |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.0
+	   |    |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.1
+	   |    \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.1
+	   |-- org_jetbrains_exposed_exposed-core 0.48.0
+	   |-- org_jetbrains_exposed_exposed-jdbc 0.48.0
+	   \-- placeholder-api 2.5.0+1.21.2
+	- fabric-api 0.110.0+1.21.3
+	   |-- fabric-api-base 0.4.50+119c825640
+	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
+	   |-- fabric-biome-api-v1 14.0.6+fd37071f40
+	   |-- fabric-block-api-v1 1.0.28+fd37071f40
+	   |-- fabric-block-view-api-v2 1.0.16+fd37071f40
+	   |-- fabric-blockrenderlayer-v1 2.0.4+fd37071f40
+	   |-- fabric-client-tags-api-v1 1.1.24+fd37071f40
+	   |-- fabric-command-api-v1 1.2.58+f71b366f40
+	   |-- fabric-command-api-v2 2.2.37+c9d82ab240
+	   |-- fabric-commands-v0 0.2.75+df3654b340
+	   |-- fabric-content-registries-v0 9.1.8+fd37071f40
+	   |-- fabric-convention-tags-v1 2.1.3+7f945d5b40
+	   |-- fabric-convention-tags-v2 2.9.3+84ebbb0e40
+	   |-- fabric-crash-report-info-v1 0.3.3+fd37071f40
+	   |-- fabric-data-attachment-api-v1 1.4.0+dbad41f140
+	   |-- fabric-data-generation-api-v1 21.0.18+fd37071f40
+	   |-- fabric-dimensions-v1 4.0.7+fd37071f40
+	   |-- fabric-entity-events-v1 2.0.8+825023f840
+	   |-- fabric-events-interaction-v0 2.0.12+c2c3ac4740
+	   |-- fabric-game-rule-api-v1 1.0.59+fd37071f40
+	   |-- fabric-item-api-v1 11.1.7+fd37071f40
+	   |-- fabric-item-group-api-v1 4.1.17+fd37071f40
+	   |-- fabric-key-binding-api-v1 1.0.53+fd37071f40
+	   |-- fabric-keybindings-v0 0.2.51+df3654b340
+	   |-- fabric-lifecycle-events-v1 2.5.1+6da5ef6940
+	   |-- fabric-loot-api-v2 3.0.26+3f89f5a540
+	   |-- fabric-loot-api-v3 1.0.14+fd37071f40
+	   |-- fabric-message-api-v1 6.0.21+fd37071f40
+	   |-- fabric-model-loading-api-v1 3.0.9+fd37071f40
+	   |-- fabric-networking-api-v1 4.3.5+fd37071f40
+	   |-- fabric-object-builder-api-v1 17.0.9+fd37071f40
+	   |-- fabric-particles-v1 4.0.10+fd37071f40
+	   |-- fabric-recipe-api-v1 7.0.4+fd37071f40
+	   |-- fabric-registry-sync-v0 5.3.0+2758bfbf40
+	   |-- fabric-renderer-api-v1 4.0.5+fd37071f40
+	   |-- fabric-renderer-indigo 1.9.5+fd37071f40
+	   |-- fabric-rendering-data-attachment-v1 0.3.54+73761d2e40
+	   |-- fabric-rendering-fluids-v1 3.1.15+fd37071f40
+	   |-- fabric-rendering-v0 1.1.84+df3654b340
+	   |-- fabric-rendering-v1 8.0.8+6922831640
+	   |-- fabric-resource-conditions-api-v1 5.0.8+fd37071f40
+	   |-- fabric-resource-loader-v0 3.0.6+fd37071f40
+	   |-- fabric-screen-api-v1 2.0.34+fd37071f40
+	   |-- fabric-screen-handler-api-v1 1.3.101+fd37071f40
+	   |-- fabric-sound-api-v1 1.0.29+fd37071f40
+	   |-- fabric-transfer-api-v1 5.4.3+fd37071f40
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+54a41b1c40
+	- fabric-permissions-api-v0 0.3.3
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- ferritecore 7.1.0-hotfix
+	- java 21
+	- lithium 0.14.2-snapshot+mc1.21.3-build.91
+	- minecraft 1.21.3
+	- roughlyenoughitems 17.0.790
+	   \-- error_notifier 1.0.11
+	- skinrestorer 2.3.0+1.21-fabric
+	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
+	- voicechat 1.21.3-2.5.26
+	   \-- fabric-key-binding-api-v1 1.0.53+c47b9d4340
+	- yet-another-minecraft-bingo 2.3.1+mc1.21.3
+	   |-- app_cash_sqldelight_jdbc-driver 2.0.2
+	   |-- app_cash_sqldelight_runtime-jvm 2.0.2
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.17.2
+	   |-- com_fasterxml_jackson_core_jackson-core 2.17.2
+	   |-- com_fasterxml_jackson_core_jackson-databind 2.17.2
+	   |-- com_zaxxer_hikaricp 5.1.0
+	   |-- fabric-language-kotlin 1.12.0+kotlin.2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-reflect 2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-stdlib 2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.0.10
+	   |    |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.0.10
+	   |    |-- org_jetbrains_kotlinx_atomicfu-jvm 0.25.0
+	   |    |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.8.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.8.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.0
+	   |    |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.5.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.5.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.1
+	   |    |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.1
+	   |    \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.1
+	   |-- io_insert-koin_koin-core-jvm 3.5.6
+	   |-- io_insert-koin_koin-logger-slf4j 3.5.6
+	   |-- org_flywaydb_flyway-core 10.20.0
+	   |-- org_xerial_sqlite-jdbc 3.46.0.0
+	   |-- yet-another-minecraft-bingo-api 2.3.1+api
+	   \-- yet-another-minecraft-bingo-common 2.3.1+common
+	- yet_another_config_lib_v3 3.6.2+1.21.2-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+	- yosbr 0.1.2
+[02:53:08] [main/INFO]: Applying default options... (YOSBR)
+[02:53:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/evento/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:53:08] [main/INFO]: Compatibility level set to JAVA_16
+[02:53:08] [main/INFO]: Compatibility level set to JAVA_21
+[02:53:08] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[02:53:08] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[02:53:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[02:53:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[02:53:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[02:53:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[02:53:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[02:53:08] [main/INFO]: Loaded configuration file for Lithium: 139 options available, 1 override(s) found
+[02:53:09] [main/WARN]: Reference map 'lithium.refmap.json' for lithium.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:53:09] [main/WARN]: Reference map 'lithium-fabric.refmap.json' for lithium-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:53:10] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[02:53:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:53:20] [main/INFO]: Starting Coords HUD
+[02:53:21] [main/INFO]: Database: jdbc:h2:file:/workspaces/evento/servidor_minecraft/./config/coords-hud/data (H2 2.1)
+[02:53:21] [main/INFO]: Successfully validated 2 migrations (execution time 00:00.022s)
+[02:53:21] [main/INFO]: Current version of schema "PUBLIC": 2
+[02:53:21] [main/INFO]: Schema "PUBLIC" is up to date. No migration necessary.
+[02:53:21] [main/INFO]: Preparing create tables statements took 0ms
+[02:53:21] [main/INFO]: Extracting table columns took 3ms
+[02:53:21] [main/INFO]: Extracting primary keys took 0ms
+[02:53:21] [main/INFO]: Extracting column constraints took 1ms
+[02:53:21] [main/INFO]: Preparing alter table statements took 11ms
+[02:53:21] [main/INFO]: Checking mapping consistence took 2ms
+[02:53:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[02:53:22] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[02:53:22] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[02:53:22] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[02:53:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[02:53:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[02:53:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[02:53:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[02:53:22] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[02:53:23] [main/INFO]: [voicechat] Compatibility version 18
+[02:53:23] [main/INFO]: [voicechat] Loading plugins
+[02:53:23] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[02:53:23] [main/INFO]: [voicechat] Initializing plugins
+[02:53:23] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[02:53:23] [main/INFO]: [voicechat] Registering events for 'yet-another-minecraft-bingo'
+[02:53:23] [main/INFO]: Starting Bingo migration runner...
+[02:53:23] [main/INFO]: Starting Bingo Server application...
+[02:53:23] [main/INFO]: [ServerDatapackManager] isLobbyMode=true - Installing the bingo datapack in ./world/datapacks/bingo.zip
+[02:53:23] [main/INFO]: Integrations: Vanish is not installed - https://modrinth.com/mod/vanish (optional, for better spectator)
+[02:53:23] [main/INFO]: Running Flyway migrations...
+[02:53:23] [main/INFO]: HikariPool-1 - Starting...
+[02:53:24] [main/INFO]: HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@57aecbd9
+[02:53:24] [main/INFO]: HikariPool-1 - Start completed.
+[02:53:24] [main/INFO]: Database: jdbc:sqlite:/workspaces/evento/servidor_minecraft/./config/yet-another-minecraft-bingo/stats.db (SQLite 3.46)
+[02:53:24] [main/INFO]: Successfully validated 4 migrations (execution time 00:00.008s)
+[02:53:24] [main/INFO]: Current version of schema "main": 4
+[02:53:24] [main/INFO]: Schema "main" is up to date. No migration necessary.
+[02:53:24] [main/INFO]: Running Flyway migrations... - done in 283.533132ms!
+[02:53:24] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:53:26] [main/INFO]: Loaded 1337 recipes
+[02:53:26] [main/INFO]: Loaded 1448 advancements
+[02:53:27] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.529 ms
+[02:53:27] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:53:27] [Server thread/INFO]: Loading properties
+[02:53:27] [Server thread/INFO]: Default game type: SURVIVAL
+[02:53:27] [Server thread/INFO]: Generating keypair
+[02:53:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:53:27] [Server thread/INFO]: Using epoll channel type
+[02:53:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:53:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:53:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:53:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:53:27] [Server thread/INFO]: Preparing level "world"
+[02:53:27] [Server thread/INFO]: Done (0.538s)! For help, type "help"
+[02:53:28] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[02:53:28] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[02:53:28] [Server thread/INFO]: [REI] Plugins (3):
+[02:53:28] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[02:53:28] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[02:53:28] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[02:53:28] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[02:53:29] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 5.651 ms, totaling 255.9 ms.
+[02:53:29] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[02:53:29] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[02:53:29] [Server thread/INFO]: [REI] Plugins (3):
+[02:53:29] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[02:53:29] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[02:53:29] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[02:53:29] [Server thread/INFO]: [REI] OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[02:53:29] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 4.898 ms, totaling 278.9 ms.
+[02:53:29] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:53:29] [Server thread/INFO]: [ScopeManager] bingo.zip datapack exists - starting with isLobbyMode=true
+[02:53:29] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'ago-measures.gl.at.ply.gg:4369'
+[02:53:29] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 4369
+[02:53:29] [Server thread/INFO]: [ScopeManager] Starting server scope...
+[02:53:29] [Server thread/INFO]: [MenuController] Preparing the BINGO lobby...
+[02:53:30] [Server thread/INFO]: [MenuController] Preparing the BINGO lobby... - done in 562.157199ms!
+[02:53:30] [Server thread/INFO]: Integrations: Chunky is not installed - https://modrinth.com/plugin/chunky (optional, for world pre-generation)
+[02:53:30] [Server thread/INFO]: Integrations: Simple Voice Chat is installed!
+[02:53:30] [Server thread/INFO]: Integrations: Vanish is not installed - https://modrinth.com/mod/vanish (optional, for better spectator)
+[02:53:30] [Server thread/INFO]: [DataLoader] Reloading bingo data...
+[02:53:30] [Server thread/INFO]: [ObjectiveLoader] Reloading BINGO objectives...
+[02:53:31] [Server thread/INFO]: [TierListLoader] Reloading BINGO tier lists...
+[02:53:31] [Server thread/INFO]: [TagLoader] Reloading BINGO objective tags...
+[02:53:31] [Server thread/INFO]: [DataLoader] Reloading bingo data... - done in 251.802491ms!
+[02:53:31] [Server thread/INFO]: GameState changed: PREGAME -> PREGAME
+[02:53:31] [Server thread/INFO]: [MenuController] Locating spawn position...
+[02:53:35] [Server thread/ERROR]: Tried to load invalid item: 'Not a boolean: 0 missed input: {"minecraft:custom_name":'{"text":"Splash Potion of Levitation","italic":0}'}'
+[02:53:35] [Server thread/ERROR]: Tried to load invalid item: 'Not a boolean: 0 missed input: {"minecraft:custom_name":'{"text":"Splash Potion of Levitation","italic":0}'}'
+[02:53:36] [Server thread/INFO]: [MenuController] Locating spawn position... - done in 5.064011706s!
+[02:53:36] [Server thread/INFO]: Set lobby spawnpoint to ([0, -18, 1], -180.0)
+[02:53:36] [Server thread/INFO]: [MenuController] Locating menu position...
+[02:53:36] [Server thread/INFO]: [MenuController] Locating menu position... - done in 142.534229ms!
+[02:53:36] [Server thread/INFO]: Set menu position to ( 0.000E+0 -1.800E+1 -5.000E+0  1.000E+0)
+[02:53:36] [Server thread/INFO]: [MenuController] Spawning lobby menu at  1.000E+0  0.000E+0  0.000E+0  0.000E+0
+ 0.000E+0  1.000E+0  0.000E+0 -1.800E+1
+-0.000E+0  0.000E+0  1.000E+0 -5.000E+0
+ 0.000E+0  0.000E+0  0.000E+0  1.000E+0
+
+[02:53:36] [Server thread/INFO]: [MenuController] Locating team entities...
+[02:53:36] [Server thread/INFO]: [MenuController] Locating team entities... - done in 295.818735ms!
+[02:53:36] [Server thread/INFO]: Using random BINGO card seed: -3078504680255747563
+[02:53:37] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[02:53:37] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[02:53:37] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[02:53:37] [Server thread/ERROR]: [TagExpansionService] Could not find item tag '#minecraft:music_discs'
+[02:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9170ms or 183 ticks behind
+[02:53:37] [Server thread/INFO]: Re-drawing map_null for team null (30.298991ms)
+[02:53:37] [Server thread/INFO]: [DataLoader] Determining unobtainable items...
+[02:53:37] [Server thread/INFO]: [UnobtainableItemsLoader] Excluding 0 unobtainable items
+[02:53:37] [Server thread/INFO]: [DataLoader] Determining unobtainable items... - done in 8.875921ms!
+[02:53:37] [ForkJoinPool.commonPool-worker-3/WARN]: Failed to fetch skin: not found
+[02:53:38] [Server thread/INFO]: Re-drawing map_null for team null (372.585460ms)
+[02:53:40] [Server thread/INFO]: isarahrose[/127.181.99.182:39411] logged in with entity id 3683 at (-1.5, 68.0, 42.5)
+[02:53:40] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[02:53:40] [Server thread/INFO]: isarahrose joined the game
+[02:53:40] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[02:53:41] [IO-Worker-4/INFO]: [StatsSyncController] Broadcasting stats hash to player 01a48ded-60ce-3a18-ab01-37e264817300
+[02:53:41] [Server thread/INFO]: [voicechat] Received secret request of isarahrose (18)
+[02:53:41] [Server thread/INFO]: [voicechat] Sent secret to isarahrose
+[02:53:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 01a48ded-60ce-3a18-ab01-37e264817300
+[02:53:41] [Server thread/INFO]: Re-drawing map_null for team null (3.052278ms)
+[02:53:42] [ForkJoinPool.commonPool-worker-3/WARN]: Failed to fetch skin: not found
+[02:53:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 01a48ded-60ce-3a18-ab01-37e264817300
+[02:53:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player isarahrose (01a48ded-60ce-3a18-ab01-37e264817300) successfully connected to voice chat
+[02:53:42] [Server thread/INFO]: Re-drawing map_null for team null (1.041474ms)
+[02:53:43] [Server thread/INFO]: Re-drawing map_null for team null (1.699162ms)
+[02:53:48] [Server thread/INFO]: Vessbutblocky[/127.16.1.172:60889] logged in with entity id 4103 at (-9.5, 67.0, 31.5)
+[02:53:48] [Server thread/INFO]: Vessbutblocky joined the game
+[02:53:48] [IO-Worker-6/INFO]: [StatsSyncController] Broadcasting stats hash to player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[02:53:50] [Server thread/INFO]: [voicechat] Received secret request of Vessbutblocky (18)
+[02:53:50] [Server thread/INFO]: [voicechat] Sent secret to Vessbutblocky
+[02:53:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[02:53:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[02:53:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vessbutblocky (380cd4c7-2786-3f93-a744-ffe7b48befe9) successfully connected to voice chat
+[02:53:58] [Server thread/INFO]: Cangu_12[/127.156.254.205:43999] logged in with entity id 4110 at (-0.5, 67.0, 39.5)
+[02:53:58] [Server thread/INFO]: Cangu_12 joined the game
+[02:53:58] [IO-Worker-1/INFO]: [StatsSyncController] Broadcasting stats hash to player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[02:53:58] [Server thread/INFO]: [voicechat] Received secret request of Cangu_12 (18)
+[02:53:58] [Server thread/INFO]: [voicechat] Sent secret to Cangu_12
+[02:53:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[02:54:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[02:54:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cangu_12 (2d7926e2-e0fb-3186-a311-c286a6c76e48) successfully connected to voice chat
+[02:54:04] [Server thread/INFO]: Akamory[/127.213.18.1:59557] logged in with entity id 4114 at (3.5, 66.0, 22.5)
+[02:54:04] [Server thread/INFO]: Akamory joined the game
+[02:54:04] [IO-Worker-7/INFO]: [StatsSyncController] Broadcasting stats hash to player 30e4417a-d9c2-3788-961b-f24a534d9889
+[02:54:07] [Server thread/INFO]: [voicechat] Received secret request of Akamory (18)
+[02:54:07] [Server thread/INFO]: [voicechat] Sent secret to Akamory
+[02:54:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 30e4417a-d9c2-3788-961b-f24a534d9889
+[02:54:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 30e4417a-d9c2-3788-961b-f24a534d9889
+[02:54:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Akamory (30e4417a-d9c2-3788-961b-f24a534d9889) successfully connected to voice chat
+[02:56:07] [Server thread/INFO]: AlterJextroll96[/127.176.184.16:39103] logged in with entity id 4125 at (-0.5, 66.0, 22.5)
+[02:56:07] [Server thread/INFO]: AlterJextroll96 joined the game
+[02:56:07] [IO-Worker-11/INFO]: [StatsSyncController] Broadcasting stats hash to player a9825b52-4c13-3210-931d-b3e3edb56ef0
+[02:56:07] [Server thread/INFO]: [voicechat] Received secret request of AlterJextroll96 (18)
+[02:56:07] [Server thread/INFO]: [voicechat] Sent secret to AlterJextroll96
+[02:56:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a9825b52-4c13-3210-931d-b3e3edb56ef0
+[02:56:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a9825b52-4c13-3210-931d-b3e3edb56ef0
+[02:56:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player AlterJextroll96 (a9825b52-4c13-3210-931d-b3e3edb56ef0) successfully connected to voice chat
+[02:57:01] [Server thread/INFO]: Cangu_12 lost connection: Disconnected
+[02:57:01] [Server thread/INFO]: Cangu_12 left the game
+[02:57:01] [Server thread/INFO]: [voicechat] Disconnecting client Cangu_12
+[02:57:10] [Server thread/INFO]: Vessbutblocky has made the advancement [Sticky Situation]
+[02:57:22] [Server thread/INFO]: Creating a map for team bingo_pink - mapId=3
+[02:57:22] [Server thread/INFO]: Re-drawing map_3 for team pink (2.562745ms)
+[02:57:26] [Server thread/INFO]: [StatsLobbyController] Fetching summary for player 380cd4c7-2786-3f93-a744-ffe7b48befe9...
+[02:57:26] [Server thread/INFO]: [StatsLobbyController] Finished fetching player summary!
+[02:57:33] [Server thread/INFO]: Vessbutblocky fell from a high place
+[02:57:35] [Server thread/INFO]: [StatsLobbyController] Fetching summary for player a9825b52-4c13-3210-931d-b3e3edb56ef0...
+[02:57:35] [Server thread/INFO]: [StatsLobbyController] Finished fetching player summary!
+[02:57:41] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:58:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d0d4f4f[id=2d7926e2-e0fb-3186-a311-c286a6c76e48,name=Cangu_12,properties={}] lost connection: Disconnected
+[02:58:05] [Server thread/INFO]: RainbowCat_uwu[/127.27.0.52:39495] logged in with entity id 4136 at (-8.5, 68.0, 29.5)
+[02:58:05] [Server thread/INFO]: RainbowCat_uwu joined the game
+[02:58:05] [IO-Worker-14/INFO]: [StatsSyncController] Broadcasting stats hash to player 5c072680-c607-3416-89f2-4adf69625283
+[02:58:06] [Server thread/INFO]: [voicechat] Received secret request of RainbowCat_uwu (18)
+[02:58:06] [Server thread/INFO]: [voicechat] Sent secret to RainbowCat_uwu
+[02:58:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5c072680-c607-3416-89f2-4adf69625283
+[02:58:07] [Server thread/INFO]: Cangu_12[/127.156.254.205:47221] logged in with entity id 4143 at (11.603481999536081, -13.9375, 3.8289452195248423)
+[02:58:07] [Server thread/INFO]: Cangu_12 joined the game
+[02:58:07] [IO-Worker-9/INFO]: [StatsSyncController] Broadcasting stats hash to player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[02:58:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5c072680-c607-3416-89f2-4adf69625283
+[02:58:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RainbowCat_uwu (5c072680-c607-3416-89f2-4adf69625283) successfully connected to voice chat
+[02:58:07] [Server thread/INFO]: [voicechat] Received secret request of Cangu_12 (18)
+[02:58:07] [Server thread/INFO]: [voicechat] Sent secret to Cangu_12
+[02:58:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[02:58:09] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:58:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[02:58:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cangu_12 (2d7926e2-e0fb-3186-a311-c286a6c76e48) successfully connected to voice chat
+[02:58:17] [Server thread/INFO]: Vessbutblocky drowned
+[02:58:43] [Server thread/WARN]: Vessbutblocky moved too quickly! 0.0,-16.721189120295065,0.0
+[02:58:47] [Server thread/INFO]: Vessbutblocky fell out of the world
+[02:59:00] [Server thread/INFO]: [Cangu_12: No skin changes]
+[02:59:00] [Server thread/INFO]: Vessbutblocky lost connection: Disconnected
+[02:59:00] [Server thread/INFO]: Vessbutblocky left the game
+[02:59:00] [Server thread/INFO]: [voicechat] Disconnecting client Vessbutblocky
+[02:59:15] [Server thread/INFO]: [Cangu_12: Skin changed]
+[02:59:19] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:59:22] [Server thread/INFO]: Re-drawing map_3 for team pink (2.313936ms)
+[02:59:31] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8710$class_9154.comp_2242()" because "type" is null
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:143) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.collectPackets(NetworkAggregator.java:137) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.collectPackets(NetworkManager.java:133) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.NetworkManager.sendToPlayer(NetworkManager.java:142) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/me.shedaniel.rei.plugin.common.displays.tag.TagNodes.lambda$init$1(TagNodes.java:137) ~[RoughlyEnoughItems-17.0.790-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerReceiver$1(NetworkAggregator.java:71) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$3(NetworkAggregator.java:108) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.transformers.SplitPacketTransformer.inbound(SplitPacketTransformer.java:174) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.impl.NetworkAggregator.lambda$registerC2SReceiver$4(NetworkAggregator.java:102) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/dev.architectury.networking.fabric.NetworkManagerImpl$1.lambda$registerC2S$0(NetworkManagerImpl.java:58) ~[architectury-14.0.4-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.5+fd37071f40-a3ad55f5d27b7334.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:889) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:180) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:829) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:836) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:719) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:292) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:59:46] [Server thread/INFO]: Cangu_12 lost connection: Disconnected
+[02:59:46] [Server thread/INFO]: Cangu_12 left the game
+[02:59:46] [Server thread/INFO]: [voicechat] Disconnecting client Cangu_12
+[03:00:23] [Server thread/INFO]: Cangu_12[/127.156.254.205:50839] logged in with entity id 4150 at (9.192928467774923, -14.0, -4.066990214673807)
+[03:00:23] [Server thread/INFO]: Cangu_12 joined the game
+[03:00:23] [IO-Worker-9/INFO]: [StatsSyncController] Broadcasting stats hash to player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[03:00:24] [Server thread/INFO]: [voicechat] Received secret request of Cangu_12 (18)
+[03:00:24] [Server thread/INFO]: [voicechat] Sent secret to Cangu_12
+[03:00:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[03:00:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 2d7926e2-e0fb-3186-a311-c286a6c76e48
+[03:00:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cangu_12 (2d7926e2-e0fb-3186-a311-c286a6c76e48) successfully connected to voice chat
+[03:01:22] [ForkJoinPool.commonPool-worker-6/WARN]: Failed to fetch skin: not found
+[03:01:26] [Server thread/INFO]: Vessbutblocky[/127.16.1.172:33417] logged in with entity id 4154 at (0.5745083466920172, -17.0, 5.846126542229397)
+[03:01:26] [Server thread/INFO]: Vessbutblocky joined the game
+[03:01:26] [IO-Worker-9/INFO]: [StatsSyncController] Broadcasting stats hash to player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[03:01:28] [Server thread/INFO]: [voicechat] Received secret request of Vessbutblocky (18)
+[03:01:28] [Server thread/INFO]: [voicechat] Sent secret to Vessbutblocky
+[03:01:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[03:01:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 380cd4c7-2786-3f93-a744-ffe7b48befe9
+[03:01:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vessbutblocky (380cd4c7-2786-3f93-a744-ffe7b48befe9) successfully connected to voice chat
+[03:01:44] [Server thread/INFO]: AlterJextroll96 was poked to death by a sweet berry bush
+[03:01:46] [Server thread/INFO]: isarahrose was slain by Vessbutblocky
+[03:02:07] [Server thread/INFO]: Vessbutblocky fell out of the world
+[03:02:30] [Server thread/INFO]: Made isarahrose a server operator
+[03:02:35] [Server thread/INFO]: Akamory lost connection: Timed out
+[03:02:35] [Server thread/INFO]: Akamory left the game
+[03:02:35] [Server thread/INFO]: [voicechat] Disconnecting client Akamory
+[03:02:44] [Server thread/INFO]: Cangu_12 was slain by Vessbutblocky

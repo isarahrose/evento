@@ -1,0 +1,6 @@
+version:3839
+guiScale:3
+onboardAccessibility:true
+resourcePacks:["vanilla","fabric","file/Lower Shield.zip","file/Unique Dyes.zip","file/Unobtrusive Rain.zip","file/Unobtrusive Snow.zip","file/Visual Honey Stages.zip","file/Visual Waxed Copper.zip"]
+key_key.saveToolbarActivator:key.keyboard.unknown
+soundCategory_music:0.0
